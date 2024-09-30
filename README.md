@@ -27,4 +27,8 @@ In short, the student management system simplifies the task of handling student 
 <b> Student Dashboard :</b> Students can view their marks for different subjects. The dashboard displays their username and the marks obtained in each subject.
 
 <b> Attendance :</b> Students can view their attendance by navigating to the attendance link and present & absent in distinguished in Green and Red Respectively for a greater Visulization.
+
+# Web Appliaction URL
+
+https://student-management-system-dcoi.onrender.com
                                 
