@@ -1,20 +1,20 @@
 # Student Management system
-The online student management system is designed to facilitate the management of student records and marks. It allows teachers to register, log in, and manage student data. Teachers can update the marks of students for different subjects. Students can also register, log in, and view their marks. The system uses SQLite as the database for storing teacher and student information.
 
-Teachers are the primary users of the system. They can register by providing a unique username and password. Once registered, they can log in to access the teacher dashboard. The teacher dashboard serves as a centralized hub for managing student data. It displays the total number of registered students and provides a list of all students. Teachers can view the details of each student, including their username and marks obtained in different subjects.
+The student management system is designed to make management of the records and marks of the students. It provides the teacher with the facility to sign up, log in, and manage students. The teachers update the marks of the students regarding different subjects. The students can sign up, log in, and view their marks. SQLite is the database used for storing teachers' and students' information.
 
-The system allows teachers to update student marks. By clicking on a student's name or ID, teachers can access the mark editing page for that particular student. In the mark editing page, teachers can enter the marks for different subjects. The updated marks are then saved in the database, ensuring accurate record-keeping.
+Teachers are the primary users of this system. Moreover, teachers can sign up for themselves with a unique username and password and can log in to the system using that username and password. When they do so, they will be taken to the teacher dashboard, from where they can manage all student information. It displays the total number of registered students along with a list of all of them. The detailed list of each student-which includes their username and marks obtained in different subjects-can be viewed by the teachers.
 
-Students, on the other hand, have their own login functionality. They can register for an account by providing a unique username and password. Once registered, they can log in to access their individual dashboard. The student dashboard provides a personalized view for each student. It displays their username and the marks they have obtained in different subjects. Students can easily check their performance and track their progress over time.
+This system allows the teachers to update the student's marks. Teachers can click on the name or ID of any student; that will lead them to the mark editing page of that particular student. On the mark editing page, teachers will be able to provide the marks for different subjects. Once updated, the record gets saved to the database for accurate maintenance of the records.
 
-Overall, the online student management system simplifies the process of managing student records and marks. By leveraging web technologies and user-friendly interfaces, the system aims to enhance the educational experience and contribute to a more organized and effective learning environment.
+Alongside this, the login feature is also provided for students. They have their usernames and passwords by which they create an account for themselves. After the registration process, they will be logged in to their particular dashboard pages. Now, for each and every student, there will be a personal Student's Dashboard. Within it, the information about the username of the student and the marks scored by him/her in different subjects will be provided. Hence, as a result, students can easily track their performances and changes in them over time.
+
+In short, the student management system simplifies the task of handling student records and marks. The proposed system will contribute to the learning curve by using web technologies and friendly-user interfaces, helping to keep educational procedures more organized and productive.
 
 # Features of the Student Management System :
 
 <img align="left" height="300px" src="https://smartstudent.app/media/2022/09/managment-software.png">
 
-https://cdn3d.iconscout.com/3d/premium/thumb/project-management-6102638-5058803.png
-<b> Teacher Registration and Login :</b> Teachers can register with a unique username andpassword. They can log in to access the teacher dashboard.
+<b> Teacher Registration and Login :</b> Teachers can register with a unique username and password. They can log in to access the teacher dashboard.
 
 <b> Teacher Dashboard :</b> Teachers can view the list of students and the total number of registered students. They can navigate to the mark editing page for each student to update their marks.
 
