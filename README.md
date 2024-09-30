@@ -10,7 +10,7 @@ Alongside this, the login feature is also provided for students. They have their
 
 In short, the student management system simplifies the task of handling student records and marks. The proposed system will contribute to the learning curve by using web technologies and friendly-user interfaces, helping to keep educational procedures more organized and productive.
 
-# Features of the Student Management System :
+# Features of the Student Management System 
 
 <img align="left" height="300px" src="https://smartstudent.app/media/2022/09/managment-software.png">
 
