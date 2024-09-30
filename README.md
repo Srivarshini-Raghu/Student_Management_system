@@ -28,7 +28,7 @@ In short, the student management system simplifies the task of handling student 
 
 <b> Attendance :</b> Students can view their attendance by navigating to the attendance link and present & absent in distinguished in Green and Red Respectively for a greater Visulization.
 
-# Web Appliaction URL
+# Web Application URL
 
 https://student-management-system-dcoi.onrender.com
                                 
